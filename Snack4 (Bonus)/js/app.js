@@ -24,6 +24,7 @@ do {
     i++;
 } while( i < guests.length && !found)
 
+// Stampo il risultato della ricerca
 if (found) {
     alert("Benvenuto alla festa!")
 } else {
